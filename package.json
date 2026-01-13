@@ -1,0 +1,20 @@
+{
+  "name": "simple-task-manager",
+  "version": "1.0.0",
+  "description": "Practicing release project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amy2525/simple-task-manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amy2525/simple-task-manager/issues"
+  },
+  "homepage": "https://github.com/amy2525/simple-task-manager#readme"
+}
